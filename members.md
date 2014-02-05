@@ -228,6 +228,7 @@ Format:
 | Roc Hodges | [myth134](https://github.com/myth134) ||
 | Rod Lai | [Rodlikespants](https://github.com/Rodlikespants) | I know Java, Perl, C++, and a little bit of many others (Ruby, Python, JavaScript, Node.js).  I've been working in the industry for a few years but would like more experience developing independent projects and contributing to OSS |
 | Russ Bryan | [rchkb](https://github.com/) ||
+| Ryan Mainard | [rmainard007](https://github.com/rmainard007) | Working on my bachelors degree in comp sci, have worked mostly with c++ and a little java. Still very new to programming.|
 | Sadie Dutcher | [SadieD](https://github.com/SadieD) ||
 | Sai Manoj Kumar Yadlapati | [saimanoj](https://github.com/saimanoj) | Can Program in C and Java. Learning and loving Python. Not to forget my love towards open source. |
 | Saikiran S | [saikiran1096](https://github.com/saikiran1096) | I have experience with Java and would like to begin contributing to open-source projects!
@@ -281,4 +282,4 @@ Format:
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
 | حبيب الامين | [phySi0](https://github.com/phySi0) | I know a fair bit, I want to learn a lot more. My priorities are Objective-C, Python (2 and 3) and C. ||
-| Ryan Mainard | [rmainard007](https://github.com/rmainard007) | Working on my bachelors degree in comp sci, have worked mostly with c++ and a little java. Still very new to programming.|
+
